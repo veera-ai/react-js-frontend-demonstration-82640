@@ -1,1 +1,3 @@
-# react-js-frontend-demonstration-82640
+# Project Repository
+
+This is the initial README file for the project.
